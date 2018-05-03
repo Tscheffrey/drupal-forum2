@@ -1,4 +1,4 @@
-name: FiftySix
+name: fiftysix
 description: test
 type: theme
 core: 8.x
@@ -23,3 +23,6 @@ regions:
   footer_third: 'Footer third'
   footer_fourth: 'Footer fourth'
   footer_fifth: 'Footer fifth'
+libraries:
+  - fiftysix/global-styling
+  - fiftysix/global-scripts
