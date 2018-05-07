@@ -2,7 +2,7 @@ name: fiftysix
 description: test
 type: theme
 core: 8.x
-base theme: drupal8_w3css_theme
+base theme: drupal8_w3css_subtheme
 regions:
   header: Header
   primary_menu: 'Primary menu'

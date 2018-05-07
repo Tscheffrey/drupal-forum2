@@ -1,1 +1,17 @@
 /* Add your css code here */
+
+h1,
+h2,
+h3,
+h4,
+button,
+input,
+select,
+textarea,
+.ul-parent-footer {
+  font-family: Montserrat, sans-serif;
+}
+
+#footer-cintainer .first-footer > div {
+  background-color: transparent !important;
+}
